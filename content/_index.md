@@ -21,7 +21,10 @@ Returning user? Figure out how to [[notes/updating|update]] your existing Quartz
 If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
 
 读书笔记
+
 [概率论及数理统计](./notes/概率论/概率论及数理统计)
+
+[白话机器学习中的数学](./notes/白话机器学习中的数学/目录)
 
 ### Troubleshooting
 - 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
