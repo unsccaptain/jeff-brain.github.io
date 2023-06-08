@@ -5,7 +5,6 @@ $0 \le F(x,y) \le 1$。 $F(x,y)$是$X$或$Y$的不减函数。 $F(-\infty,y)=0$�
 $P{X = x_k} = P_k$叫做离散型随机变量的概率分布。
 性质：
 $P_k \ge 0$ $\sum P_k=1$ 连续型随机变量及其概率密度函数 存在非负可积函数$f(x)$，且$f(x) \ge 0$，对任意实数$a&amp;lt;b$，使得$P{a&amp;lt;x \le b}=\intop_a^bf(x)dx$，则称$x$为连续性随机变量，$f(x)$称为$x$的概率分布密度函数。</description></item><item><title/><link>https://unsccaptain.github.io/notes/%E7%99%BD%E8%AF%9D%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%B8%AD%E7%9A%84%E6%95%B0%E5%AD%A6/1-%E5%9B%9E%E5%BD%92%E9%97%AE%E9%A2%98/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://unsccaptain.github.io/notes/%E7%99%BD%E8%AF%9D%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%B8%AD%E7%9A%84%E6%95%B0%E5%AD%A6/1-%E5%9B%9E%E5%BD%92%E9%97%AE%E9%A2%98/</guid><description>2. 回归 2.3 最小二乘法 目标函数（误差函数） $$
-\large
 \displaystyle E(\theta) = \frac{1}{2} \sum_{i=1}^n(y^{(i)}-f_{\theta}(x^{(i)}))^2
 $$ 找到使$E(\theta)$最小的$\theta$值的问题称为最优化问题。
 梯度下降法 $$
